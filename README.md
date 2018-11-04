@@ -1,1 +1,1 @@
-# a github of a stupid and ugly person
+# A github of a stupid and ugly person
