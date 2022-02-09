@@ -1,1 +1,1 @@
-# A github of a stupid and ugly person
+# Some machine learning practice cod.
